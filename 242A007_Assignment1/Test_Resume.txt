@@ -1,0 +1,76 @@
+HASSAAN SHAIKH
+
+Mumbai, Maharashtra, India
+hassaan.shaikh@example.com
++91 98765 43210
+linkedin.com/in/hassaan-shaikh
+github.com/hassaan-shaikh
+
+PROFESSIONAL SUMMARY
+
+Artificial Intelligence and Data Science undergraduate with experience
+in Python, Natural Language Processing, machine learning and software
+development. Interested in NLP applications, information extraction
+and intelligent document processing.
+
+EDUCATION
+
+Bachelor of Engineering in Artificial Intelligence and Data Science
+Rizvi College of Engineering, Mumbai
+2023 – 2027
+CGPA: 8.4/10
+
+Higher Secondary Certificate (HSC)
+Maharashtra State Board
+2023
+Percentage: 86.40%
+
+Secondary School Certificate (SSC)
+Maharashtra State Board
+2021
+Percentage: 91.20%
+
+TECHNICAL SKILLS
+
+Python, Java, C#, SQL, Git, GitHub, NLP, Machine Learning,
+Natural Language Processing, Pandas, NumPy, scikit-learn,
+Avalonia UI, .NET
+
+PROJECTS
+
+NLP Sentiment Analysis
+2026
+Developed a sentiment classification system using Python and
+machine-learning techniques. Preprocessed text and classified
+sentences into positive, negative and neutral categories.
+
+Screenwriting Application
+2026
+Developed an open-source screenplay-writing application using
+C# and Avalonia UI. Implemented a text editor and document
+management functionality.
+
+EXPERIENCE
+
+Student Developer — AI Research Project
+Rizvi College of Engineering, Mumbai
+June 2026 – Present
+
+Worked on NLP experiments involving text classification,
+sentiment analysis and natural-language processing.
+
+CERTIFICATIONS
+
+Introduction to Machine Learning — Coursera
+2025
+
+LANGUAGES
+
+English — Professional
+Hindi — Professional
+Marathi — Native
+
+ACHIEVEMENTS
+
+Participated in academic NLP and software-development projects.
+Maintained open-source projects on GitHub.

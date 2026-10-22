@@ -1,0 +1,689 @@
+{
+  "data": {
+    "achievements": [
+      "Participated in academic NLP and software-development projects.",
+      "Maintained open-source projects on GitHub."
+    ],
+    "associations": [],
+    "certifications": [
+      {
+        "date": {
+          "date": "2025-01-01",
+          "precision": "year"
+        },
+        "issuer": "Coursera",
+        "name": "Introduction to Machine Learning"
+      },
+      {
+        "date": {
+          "date": "2025-01-01",
+          "precision": "year"
+        },
+        "name": "Introduction to Machine Learning — Coursera"
+      }
+    ],
+    "contact": {
+      "emails": [
+        "hassaan.shaikh@example.com"
+      ],
+      "phoneNumbers": [
+        {
+          "callingCode": 91,
+          "countryCode": "IN",
+          "formatted": "+91 98765 43210",
+          "nationalNumber": "098765 43210",
+          "raw": "+91 98765 43210"
+        }
+      ],
+      "websites": [
+        {
+          "domain": "linkedin.com/in/hassaan-shaikh",
+          "type": "linkedin",
+          "url": "linkedin.com/in/hassaan-shaikh"
+        },
+        {
+          "domain": "github.com/hassaan-shaikh",
+          "type": "github",
+          "url": "github.com/hassaan-shaikh"
+        }
+      ]
+    },
+    "education": [
+      {
+        "dateRange": {
+          "durationMonths": 60,
+          "end": {
+            "date": "2027-01-01",
+            "precision": "year"
+          },
+          "start": {
+            "date": "2023-01-01",
+            "precision": "year"
+          }
+        },
+        "fieldsOfStudy": [
+          "Artificial Intelligence and Data Science"
+        ],
+        "grade": {
+          "metric": "CGPA",
+          "raw": "CGPA: 8.4/10",
+          "value": 8.4
+        },
+        "institution": "Rizvi College of Engineering",
+        "level": "bachelor",
+        "location": {
+          "city": "Mumbai",
+          "coordinates": {
+            "latitude": 19.07283,
+            "longitude": 72.88261
+          },
+          "country": "India",
+          "countryCode": "IN",
+          "formatted": "Mumbai, Maharashtra, India",
+          "raw": "Mumbai",
+          "state": "Maharashtra"
+        },
+        "minors": [],
+        "qualification": "Bachelor of Engineering"
+      },
+      {
+        "dateRange": {
+          "end": {
+            "date": "2023-01-01",
+            "precision": "year"
+          }
+        },
+        "fieldsOfStudy": [],
+        "grade": {
+          "metric": "Percentage",
+          "raw": "86.40%",
+          "value": 86.4
+        },
+        "institution": "Maharashtra State Board",
+        "level": "secondary",
+        "minors": [],
+        "qualification": "Higher Secondary Certificate (HSC"
+      },
+      {
+        "dateRange": {
+          "end": {
+            "date": "2021-01-01",
+            "precision": "year"
+          }
+        },
+        "fieldsOfStudy": [],
+        "grade": {
+          "metric": "Percentage",
+          "raw": "Percentage"
+        },
+        "institution": "Maharashtra State Board",
+        "level": "secondary",
+        "minors": [],
+        "qualification": "Secondary School Certificate (SSC"
+      }
+    ],
+    "employmentMetrics": {
+      "averageTenureMonths": 5,
+      "currentRoleTenureMonths": 5,
+      "gaps": [],
+      "longestTenureMonths": 5,
+      "totalExperienceMonths": 5
+    },
+    "interests": [],
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Hindi"
+      },
+      {
+        "name": "Marathi"
+      }
+    ],
+    "patents": [],
+    "person": {
+      "location": {
+        "city": "Mumbai",
+        "coordinates": {
+          "latitude": 19.07283,
+          "longitude": 72.88261
+        },
+        "country": "India",
+        "countryCode": "IN",
+        "formatted": "Mumbai, Maharashtra, India",
+        "raw": "Mumbai, Maharashtra, India",
+        "state": "Maharashtra"
+      },
+      "name": {
+        "family": "Shaikh",
+        "given": "Hassaan"
+      },
+      "nationalities": []
+    },
+    "preferredWorkLocations": [],
+    "projects": [
+      {
+        "dateRange": {
+          "start": {
+            "date": "2026-01-01",
+            "precision": "year"
+          }
+        },
+        "description": "Developed a sentiment classification system using Python and machine-learning techniques. Preprocessed text and classified sentences into positive, negative and neutral categories.",
+        "title": "NLP Sentiment Analysis"
+      },
+      {
+        "dateRange": {
+          "start": {
+            "date": "2026-01-01",
+            "precision": "year"
+          }
+        },
+        "description": "Developed an open-source screenplay-writing application using C# and Avalonia UI. Implemented a text editor and document management functionality.",
+        "title": "Screenwriting Application"
+      },
+      {
+        "title": "machine-learning techniques. Preprocessed text and classified"
+      },
+      {
+        "dateRange": {
+          "start": {
+            "date": "2026-01-01",
+            "precision": "year"
+          }
+        },
+        "title": "sentences into positive, negative and neutral categories"
+      },
+      {
+        "title": "C# and Avalonia UI. Implemented a text editor and document"
+      },
+      {
+        "title": "management functionality"
+      }
+    ],
+    "publications": [],
+    "rawText": "HASSAAN SHAIKH\nMumbai, Maharashtra, India\nhassaan.shaikh@example.com\n+91 98765 43210\nlinkedin.com/in/hassaan-shaikh\ngithub.com/hassaan-shaikh\nPROFESSIONAL SUMMARY\nArtificial Intelligence and Data Science undergraduate with experience\nin Python, Natural Language Processing, machine learning and software\ndevelopment. Interested in NLP applications, information extraction\nand intelligent document processing.\nEDUCATION\nBachelor of Engineering in Artificial Intelligence and Data Science\nRizvi College of Engineering, Mumbai\n2023 – 2027\nCGPA: 8.4/10\nHigher Secondary Certificate (HSC)\nMaharashtra State Board\n2023\nPercentage: 86.40%\nSecondary School Certificate (SSC)\nMaharashtra State Board\n2021\nPercentage: 91.20%\nTECHNICAL SKILLS\nPython, Java, C#, SQL, Git, GitHub, NLP, Machine Learning,\nNatural Language Processing, Pandas, NumPy, scikit-learn,\nAvalonia UI, .NET\nPROJECTS\nNLP Sentiment Analysis\n2026\nDeveloped a sentiment classification system using Python and\nmachine-learning techniques. Preprocessed text and classified\nsentences into positive, negative and neutral categories.\nScreenwriting Application\n2026\nDeveloped an open-source screenplay-writing application using\nC# and Avalonia UI. Implemented a text editor and document\nmanagement functionality.\nEXPERIENCE\nStudent Developer — AI Research Project\nRizvi College of Engineering, Mumbai\nJune 2026 – Present\nWorked on NLP experiments involving text classification,\nsentiment analysis and natural-language processing.\nCERTIFICATIONS\nIntroduction to Machine Learning — Coursera\n2025\nLANGUAGES\nEnglish — Professional\nHindi — Professional\nMarathi — Native\nACHIEVEMENTS\nParticipated in academic NLP and software-development projects.\nMaintained open-source projects on GitHub.",
+    "redactedText": "******* ******\n******* ************ *****\n**************************\n*** ***** *****\n******************************\n*************************\nPROFESSIONAL SUMMARY\nArtificial Intelligence and Data Science undergraduate with experience\nin Python, Natural Language Processing, machine learning and software\ndevelopment. Interested in NLP applications, information extraction\nand intelligent document processing.\nEDUCATION\nBachelor of Engineering in Artificial Intelligence and Data Science\nRizvi College of Engineering, Mumbai\n2023 – 2027\nCGPA: 8.4/10\nHigher Secondary Certificate (HSC)\nMaharashtra State Board\n2023\nPercentage: 86.40%\nSecondary School Certificate (SSC)\nMaharashtra State Board\n2021\nPercentage: 91.20%\nTECHNICAL SKILLS\nPython, Java, C#, SQL, Git, GitHub, NLP, Machine Learning,\nNatural Language Processing, Pandas, NumPy, scikit-learn,\nAvalonia UI, .NET\nPROJECTS\nNLP Sentiment Analysis\n2026\nDeveloped a sentiment classification system using Python and\nmachine-learning techniques. Preprocessed text and classified\nsentences into positive, negative and neutral categories.\nScreenwriting Application\n2026\nDeveloped an open-source screenplay-writing application using\nC# and Avalonia UI. Implemented a text editor and document\nmanagement functionality.\nEXPERIENCE\nStudent Developer — AI Research Project\nRizvi College of Engineering, Mumbai\nJune 2026 – Present\nWorked on NLP experiments involving text classification,\nsentiment analysis and natural-language processing.\nCERTIFICATIONS\nIntroduction to Machine Learning — Coursera\n2025\nLANGUAGES\nEnglish — Professional\nHindi — Professional\nMarathi — Native\nACHIEVEMENTS\nParticipated in academic NLP and software-development projects.\nMaintained open-source projects on GitHub.",
+    "referees": [],
+    "skills": [
+      {
+        "name": "Artificial Intelligence",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_9h2a8t9bn3",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "Artificial Intelligence and"
+      },
+      {
+        "name": "Data Science",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_mc78hhtg3b",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "Data Science"
+      },
+      {
+        "name": "Document Management",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_r7amwymrdy",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "document management"
+      },
+      {
+        "name": "Document Processing",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_rbxj5dz4wj",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "document processing"
+      },
+      {
+        "name": "Git (Version Control System)",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_h8abcdpmm2",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "Git"
+      },
+      {
+        "name": "Github",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_rhwsj67s8w",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "GitHub"
+      },
+      {
+        "name": "Information Extraction",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_23pr2kcwx4",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "information extraction"
+      },
+      {
+        "name": "Java (Programming Language)",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_h6k9k3hm3f",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "Java"
+      },
+      {
+        "name": "Machine Learning",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_48gxta9wkj",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "machine learning"
+      },
+      {
+        "name": ".NET Framework",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_23cfafy2fb",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": ".NET"
+      },
+      {
+        "name": "NumPy (Python Package)",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_w6rsfez4v9",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "NumPy"
+      },
+      {
+        "name": "Pandas (Python Package)",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_zabd59sa4h",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "Pandas"
+      },
+      {
+        "name": "Python (Programming Language)",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_zfg3qpjq2c",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "Python"
+      },
+      {
+        "name": "Screenwriting",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_amtgpenq75",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "Screenwriting"
+      },
+      {
+        "name": "Software Development",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_9hgr8b6tfg",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "software development"
+      },
+      {
+        "name": "SQL (Programming Language)",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_rgfwa86y3z",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "SQL"
+      },
+      {
+        "name": "Text Editor",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_tb5z56byv7",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "text editor"
+      },
+      {
+        "experienceMonths": 5,
+        "lastUsed": {
+          "date": "2026-10-01",
+          "precision": "month"
+        },
+        "name": "C# (Programming Language)",
+        "sources": [
+          {
+            "recordIndex": 0,
+            "section": "workexperience"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_hvpkbzj36w",
+          "isLanguage": false,
+          "isSoftware": true,
+          "type": "specialized_skill"
+        },
+        "text": "C#"
+      },
+      {
+        "experienceMonths": 5,
+        "lastUsed": {
+          "date": "2026-10-01",
+          "precision": "month"
+        },
+        "name": "Natural Language Processing Systems",
+        "sources": [
+          {
+            "recordIndex": 0,
+            "section": "workexperience"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_y3vjv5enwg",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "Natural Language Processing"
+      },
+      {
+        "experienceMonths": 5,
+        "lastUsed": {
+          "date": "2026-10-01",
+          "precision": "month"
+        },
+        "name": "Sentiment Analysis",
+        "sources": [
+          {
+            "recordIndex": 0,
+            "section": "workexperience"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_2tbgafmap8",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "sentiment analysis"
+      },
+      {
+        "experienceMonths": 5,
+        "lastUsed": {
+          "date": "2026-10-01",
+          "precision": "month"
+        },
+        "name": "Text Classification",
+        "sources": [
+          {
+            "recordIndex": 0,
+            "section": "workexperience"
+          }
+        ],
+        "taxonomy": {
+          "affindaId": "af_cny2tc2k8z",
+          "isLanguage": false,
+          "isSoftware": false,
+          "type": "specialized_skill"
+        },
+        "text": "text classification"
+      },
+      {
+        "name": "Avalonia UI",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "text": "Avalonia UI"
+      },
+      {
+        "name": "document management functionality",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "text": "document management functionality"
+      },
+      {
+        "name": "intelligent document processing",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "text": "intelligent document processing"
+      },
+      {
+        "experienceMonths": 5,
+        "lastUsed": {
+          "date": "2026-10-01",
+          "precision": "month"
+        },
+        "name": "NLP experiments",
+        "sources": [
+          {
+            "recordIndex": 0,
+            "section": "workexperience"
+          }
+        ],
+        "text": "NLP experiments"
+      },
+      {
+        "name": "NLP Sentiment Analysis",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "text": "NLP Sentiment Analysis"
+      },
+      {
+        "name": "open-source screenplay-writing application",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "text": "open-source screenplay-writing application"
+      },
+      {
+        "name": "sentiment classification system",
+        "sources": [
+          {
+            "section": "skills_interests_languages"
+          }
+        ],
+        "text": "sentiment classification system"
+      }
+    ],
+    "summary": "Artificial Intelligence and Data Science undergraduate with experience in Python, Natural Language Processing, machine learning and software development. Interested in NLP applications, information extraction and intelligent document processing.",
+    "workExperience": [
+      {
+        "dateRange": {
+          "durationMonths": 5,
+          "end": {
+            "current": true
+          },
+          "start": {
+            "date": "2026-06-01",
+            "precision": "month"
+          }
+        },
+        "description": "Worked on NLP experiments involving text classification, sentiment analysis and natural-language processing.",
+        "employmentType": "full_time",
+        "jobTitle": "Student Developer",
+        "location": {
+          "city": "Mumbai",
+          "coordinates": {
+            "latitude": 19.07283,
+            "longitude": 72.88261
+          },
+          "country": "India",
+          "countryCode": "IN",
+          "formatted": "Mumbai, Maharashtra, India",
+          "raw": "Mumbai",
+          "state": "Maharashtra"
+        },
+        "occupation": {
+          "classification": {
+            "code": "2134",
+            "majorGroup": {
+              "code": "2",
+              "name": "PROFESSIONAL OCCUPATIONS"
+            },
+            "minorGroup": {
+              "code": "213",
+              "name": "Information Technology Professionals"
+            },
+            "subMajorGroup": {
+              "code": "21",
+              "name": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS"
+            },
+            "system": "SOC",
+            "title": "Programmers and software development professionals "
+          },
+          "managementLevel": "low",
+          "normalizedTitle": "Student Developer"
+        },
+        "organization": "Rizvi College of Engineering"
+      }
+    ]
+  },
+  "meta": {
+    "document": {
+      "classification": {
+        "confidence": 0.4498,
+        "label": "resume",
+        "modelVersion": "document-domain-p1b-r2-clean-20260728"
+      },
+      "extractionQuality": {
+        "band": "medium",
+        "score": 0.8678
+      }
+    },
+    "schemaVersion": "1.0",
+    "timing": {
+      "totalMs": 102.179046
+    }
+  }
+}
