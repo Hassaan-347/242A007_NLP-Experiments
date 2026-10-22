@@ -1,0 +1,521 @@
+{
+  "ResumeParserData" : {
+    "ResumeFileName" : "Test_Resume.txt",
+    "ResumeLanguage" : {
+      "Language" : "English",
+      "LanguageCode" : "en"
+    },
+    "ParsingDate" : "22/10/2026 7:25:11",
+    "ResumeCountry" : {
+      "Country" : "India",
+      "Evidence" : "PresentAddress",
+      "CountryCode" : {
+        "IsoAlpha2" : "IN",
+        "IsoAlpha3" : "IND",
+        "UNCode" : "356"
+      }
+    },
+    "Name" : {
+      "FullName" : "HASSAAN SHAIKH",
+      "TitleName" : "",
+      "FirstName" : "HASSAAN",
+      "MiddleName" : "",
+      "LastName" : "SHAIKH",
+      "FormattedName" : "Hassaan Shaikh",
+      "ConfidenceScore" : 10
+    },
+    "DateOfBirth" : "",
+    "Gender" : "",
+    "FatherName" : "",
+    "MotherName" : "",
+    "MaritalStatus" : "",
+    "Nationality" : "",
+    "LanguageKnown" : [ {
+      "Language" : "English",
+      "LanguageCode" : "en"
+    }, {
+      "Language" : "Hindi",
+      "LanguageCode" : "hi"
+    }, {
+      "Language" : "Marathi",
+      "LanguageCode" : "mr"
+    } ],
+    "UniqueID" : "",
+    "LicenseNo" : "",
+    "PassportDetail" : {
+      "PassportNumber" : "",
+      "DateOfExpiry" : "",
+      "DateOfIssue" : "",
+      "PlaceOfIssue" : ""
+    },
+    "PanNo" : "",
+    "VisaStatus" : "",
+    "Email" : [ {
+      "EmailAddress" : "hassaan.shaikh@example.com",
+      "ConfidenceScore" : 10
+    } ],
+    "PhoneNumber" : [ {
+      "Number" : "+919876543210",
+      "ISDCode" : "+91",
+      "OriginalNumber" : "98765 43210",
+      "FormattedNumber" : "+91 98765 43210",
+      "Type" : "Phone",
+      "ConfidenceScore" : 10
+    } ],
+    "WebSite" : [ {
+      "Type" : "Linkedin",
+      "Url" : "https://www.linkedin.com/in/hassaan-shaikh"
+    }, {
+      "Type" : "Github",
+      "Url" : "https://github.com/hassaan-shaikh"
+    } ],
+    "Address" : [ {
+      "Street" : "",
+      "City" : "Mumbai",
+      "State" : "Maharashtra",
+      "StateIsoCode" : "IN-MH",
+      "Country" : "India",
+      "CountryCode" : {
+        "IsoAlpha2" : "IN",
+        "IsoAlpha3" : "IND",
+        "UNCode" : "356"
+      },
+      "ZipCode" : "",
+      "FormattedAddress" : "Mumbai, Maharashtra, India",
+      "Type" : "Present",
+      "ConfidenceScore" : 7
+    } ],
+    "Category" : "Administrative and Support and Waste Management and Remediation Services",
+    "SubCategory" : "Data Entry and Information Processing Workers",
+    "CurrentSalary" : {
+      "Amount" : "",
+      "Symbol" : "",
+      "Currency" : "",
+      "Unit" : "",
+      "Text" : ""
+    },
+    "ExpectedSalary" : {
+      "Amount" : "",
+      "Symbol" : "",
+      "Currency" : "",
+      "Unit" : "",
+      "Text" : ""
+    },
+    "Qualification" : "Bachelor of Engineering in Artificial Intelligence and Data Science \r Rizvi College of Engineering, Mumbai \r 2023 - 2027 \r CGPA : 8.4/10 \r  \r Higher Secondary Certificate (HSC) \r Maharashtra State Board \r 2023 \r Percentage : 86.40% \r  \r Secondary School Certificate (SSC) \r Maharashtra State Board \r 2021 \r Percentage : 91.20%",
+    "SegregatedQualification" : [ {
+      "Institution" : {
+        "Name" : "Rizvi College of Engineering",
+        "Type" : "College",
+        "Location" : {
+          "City" : "Mumbai",
+          "State" : "Maharashtra",
+          "StateIsoCode" : "IN-MH",
+          "Country" : "India",
+          "CountryCode" : {
+            "IsoAlpha2" : "IN",
+            "IsoAlpha3" : "IND",
+            "UNCode" : "IND"
+          }
+        },
+        "ConfidenceScore" : 10
+      },
+      "Degree" : {
+        "DegreeName" : "Bachelor of Engineering in Artificial Intelligence and Data Science",
+        "NormalizeDegree" : "Bachelor of Engineering",
+        "Specialization" : [ "Artificial Intelligence and Data Science" ],
+        "ConfidenceScore" : 10
+      },
+      "FormattedDegreePeriod" : "2023 to 2027",
+      "StartDate" : "01/01/2023",
+      "EndDate" : "31/12/2027",
+      "Aggregate" : {
+        "Value" : "8.4",
+        "MeasureType" : "CGPA"
+      }
+    }, {
+      "Institution" : {
+        "Name" : "Maharashtra State Board",
+        "Type" : "Board",
+        "ConfidenceScore" : 10,
+        "Location" : {
+          "City" : "",
+          "State" : "",
+          "StateIsoCode" : "",
+          "Country" : "",
+          "CountryCode" : {
+            "IsoAlpha2" : "",
+            "IsoAlpha3" : "",
+            "UNCode" : ""
+          }
+        }
+      },
+      "Degree" : {
+        "DegreeName" : "Higher Secondary Certificate",
+        "NormalizeDegree" : "Higher Secondary School Certificate",
+        "Specialization" : [ ],
+        "ConfidenceScore" : 10
+      },
+      "FormattedDegreePeriod" : "2023",
+      "StartDate" : "",
+      "EndDate" : "31/12/2023",
+      "Aggregate" : {
+        "Value" : "86.40",
+        "MeasureType" : "PERCENTAGE"
+      }
+    }, {
+      "Institution" : {
+        "Name" : "Maharashtra State Board",
+        "Type" : "Board",
+        "ConfidenceScore" : 10,
+        "Location" : {
+          "City" : "",
+          "State" : "",
+          "StateIsoCode" : "",
+          "Country" : "",
+          "CountryCode" : {
+            "IsoAlpha2" : "",
+            "IsoAlpha3" : "",
+            "UNCode" : ""
+          }
+        }
+      },
+      "Degree" : {
+        "DegreeName" : "Secondary School Certificate",
+        "NormalizeDegree" : "Secondary School Certificate",
+        "Specialization" : [ ],
+        "ConfidenceScore" : 10
+      },
+      "FormattedDegreePeriod" : "2021",
+      "StartDate" : "",
+      "EndDate" : "31/12/2021",
+      "Aggregate" : {
+        "Value" : "91.20",
+        "MeasureType" : "PERCENTAGE"
+      }
+    } ],
+    "Certification" : "Introduction to Machine Learning - Coursera \r 2025",
+    "SegregatedCertification" : [ ],
+    "SkillBlock" : "Python, Java, C#, SQL, Git, GitHub, NLP, Machine Learning, Natural Language Processing, Pandas, NumPy, scikit-learn, Avalonia UI, .NET",
+    "SkillKeywords" : "Natural Language Processing,Information Extraction,Language Processing,Sentiment Analysis,Data Science,Pandas,NLP,SQL,Software Development,GitHub,Python,.NET,Java,Git,C#,Artificial Intelligence,Machine Learning,Scikit-Learn,NumPy,Document Management,Text Classification,Document Processing,Learning Techniques,Coursera,Screenwriting",
+    "SegregatedSkill" : [ {
+      "Type" : "OperationalSkill",
+      "Skill" : "Natural Language Processing",
+      "Ontology" : "Information>Database and Systems Administrators and Network Architects>Computer Science>Natural Language Processing",
+      "Alias" : "Modelling Nlp, Natural Language Processing Framework, Natural language processing model, Natural Language Processing Modelling, Natural Language Processing Systems, natural language understanding, Natural-Language-Processing, Nlp, NLP Analysis, NLP Framework, NLP Model, Nlp Modeling, Nlp Modelling, \\u200ENatural-language Processing",
+      "FormattedName" : "Natural Language Processing",
+      "Evidence" : "SummarySection,SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Information Extraction",
+      "Ontology" : "Information>Database and Systems Administrators and Network Architects>Data Extraction",
+      "Alias" : "Big Data Extraction, Data Extraction Process, Data Extraction Software, Data fetching, data obtainment, data procurement, Data Retrieval, data retrieval processes, data scraping, Data Set Extraction, Data-Extraction, Data-Retrieval, Document Retrieval, Document Retrieval Process, Document-Retrieval, Extract data, Extract data from database, extract the relevant information, extracting data, Extracting Information, extraction data interpretation, extraction data processing, Information Extraction, Information Management Extraction, Information Retrieval, Information Retrieval Methods, information retrieval process, Information-Extraction, Information-Retrieval, Interpret Extraction Data, interpretation of extraction data, interpreting extraction data, interpreting of extraction data, Knowledge Extraction, Managed The Data Extraction, process extraction data, processing extraction data, processing of extraction data, Retrieval Of Data, retrieval procedures, retrieve a document, retrieve document, Retrieve Documents, retrieves documents, retrieves information, Retrieving A Document, Retrieving Data, Retrieving Documents, retrieving information, Screen Scraping, seeking out records, Web Content Extraction, Web Content-Extraction, Web Data Extraction, Web Harvesting, Web page content extraction, Web Scraping, Web Scraping Administration, Web Scraping Configuration, Web Scraping Implementation, Web Scraping Integration, Web Scraping Operations, Webpage content extraction",
+      "FormattedName" : "Data Extraction",
+      "Evidence" : "SummarySection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Language Processing",
+      "Ontology" : "Information>Database and Systems Administrators and Network Architects>Computational Linguistics",
+      "Alias" : "Computational Language Analysis, human language technology, Language Processing, Language Technology, Language-Technology, Linguistic Computing, Natural Language Computing",
+      "FormattedName" : "Computational Linguistics",
+      "Evidence" : "ExperienceSection",
+      "LastUsed" : "22/10/2026",
+      "ExperienceInMonths" : 5
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Sentiment Analysis",
+      "Ontology" : "Information>Database and Systems Administrators and Network Architects>Sentiment Analysis",
+      "Alias" : "analyze customer sentiment, analyzing emotions, Customer Sentiment Analysis, Customer-Sentiment Analysis, Customer-Sentiment- Analysis, Customer-Sentiment-Analysis, opinion mining, sentiment analyse, Sentiment-Analysis",
+      "FormattedName" : "Sentiment Analysis",
+      "Evidence" : "ExperienceSection,ProjectSection",
+      "LastUsed" : "22/10/2026",
+      "ExperienceInMonths" : 5
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Data Science",
+      "Ontology" : "Information>Database and Systems Administrators and Network Architects>Data Science",
+      "Alias" : "advanced data analytics, Applied Data Science, Data Modeling and Science, Data Science and Analysis, Data Science and Analytics, Data Science Methods, Data Science Operations, Data Scientific Analysis, Data-science, Statistical Data Science",
+      "FormattedName" : "Data Science",
+      "Evidence" : "SummarySection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Pandas",
+      "Ontology" : "Information>Database and Systems Administrators and Network Architects>pandas",
+      "Alias" : "pandas 0.25, Pandas 1.0, pandas 1.0.0, Pandas 1.4, Pandas 1.4.0, pandas 1.4.1, pandas 1.5.2, Pandas Framework, Pandas Python Package, pandas software, Pandas Version 1.0",
+      "FormattedName" : "pandas",
+      "Evidence" : "SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "NLP",
+      "Ontology" : "Information>Database and Systems Administrators and Network Architects>Computer Science>Natural Language Processing",
+      "Alias" : "Modelling Nlp, Natural Language Processing Framework, Natural language processing model, Natural Language Processing Modelling, Natural Language Processing Systems, natural language understanding, Natural-Language-Processing, Nlp, NLP Analysis, NLP Framework, NLP Model, Nlp Modeling, Nlp Modelling, \\u200ENatural-language Processing",
+      "FormattedName" : "Natural Language Processing",
+      "Evidence" : "ExperienceSection,ProjectSection,SummarySection,SkillSection",
+      "LastUsed" : "22/10/2026",
+      "ExperienceInMonths" : 5
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "SQL",
+      "Ontology" : "Information>Database and Systems Administrators and Network Architects>Programming Language>SQL",
+      "Alias" : "Advanced SQL, Advanced SQL Programming, Ansi Sql, Coding Sql, Data Definition Language, data description lang, data description language, data dictionary language, Database Definition Language, Database SQL, Databases SQL, DDL, IBM SQL/400, IBM SQL400, Microsoft Sql Programming, Object Query Language, oql, Oracle SQL, Oracle SQL Administration, Oracle SQL Configuration, Oracle SQL Implementation, Oracle SQL Integration, Oracle SQL Operations, Oracle Sql Programming, Oracle Sql2005, Programming Language Sql, Programming Sql, Sql 2000, SQL 2003, Sql 2005, Sql 2008, SQL Application Programming Language, sql coding, SQL Coding Language, SQL computer language, SQL Computer Programming Language, Sql Database, SQL database query language, sql databases, SQL Design and Development, SQL development, SQL Implementation, SQL language, sql oracle, sql programming, SQL Programming language, sql queries, SQL Software Coding Language, SQL Software Programming Language, SQL Solution Development, SQL-2003, SQL/400, sql2005, SQL400, sqldb, structured query language, Structured Query Language Development, Structured Query Language Practices, Structured Query Language Skills, Structured Query Language Techniques, structured-query-language",
+      "FormattedName" : "SQL",
+      "Evidence" : "SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Software Development",
+      "Ontology" : "Information>Software Developers and Programmers>Software Development",
+      "Alias" : "App Development, Application Dev., Application Development, Application Development and Support, Application Development and Support Services, Application Development Management, application development software, Application Preparation, Application Software Development, Application Tools Design and Development, application-development, Applications Design and Development, Applications development, applications software development, building software applications, code development, Code Writing, coding development, Computer Software Design and Development, Computer Software Development, create an application, develop a program, develop a software engine, Develop an application, develop applications, develop apps, develop business applications, develop code, develop new software, develop programs, develop software engine, Develop the application, develop the code, Developing a software engine, developing applications, Developing New Programs, developing the application, development applications, development it, Development of a program, Development Of New Programs, Development Of Programs, Development of software, Development of the programme, Development Processes, development programming, Development the application, Internet Software Development, it development, IT developments, Operations Applications Development, prepares applications, preparing the application, Program Development, programme development, programming development, programs development, Soft Application Development, Soft. Development, Software and Applications Development, Software Application Development, software creation, Software Design and Development, Software Design Development, Software Dev., Software Developing, Software Development and Implementation, software development and support, software development method, Software Development Process, software development processes, Software Developments, software engine development, Software Platforms Design and Development, Software Processes, Software Support & Development, Software Support and Development, Software Tools Design and Development, software-application-development, Software-Design and Development, Software-Design-and-Development, Software-Development, SW development, writes and codes individual programs, writes codes, Writing Code",
+      "FormattedName" : "Software Development",
+      "Evidence" : "SummarySection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "GitHub",
+      "Ontology" : "Information>Software Developers and Programmers>GitHub",
+      "Alias" : "azure github, GIT Hub, Github 2.10.0, Github 2.10.1, Github 2.10.2, Github 2.11.0, Github 2.11.1, Github 2.11.2, GitHub 2.12.1, GitHub 2.12.2, GitHub 2.12.3, GitHub 2.12.4, GitHub 2.12.5, GitHub 2.12.6, GitHub 2.12.7, GitHub 2.12.8, GitHub 2.13.0, GitHub 2.14.0, GitHub 2.14.1, GitHub 2.14.2, Github 2.2.0, Github 2.2.1, Github 2.2.2, Github 2.2.3, Github 2.2.4, Github 2.2.5, Github 2.2.6, Github 2.2.7, Github 2.2.8, Github 2.2.9, Github 2.3.0, Github 2.4.0, Github 2.5.0, Github 2.5.1, Github 2.6.0, Github 2.6.1, Github 2.7.0, Github 2.7.1, Github 2.8.2, Github 2.8.3, Github 2.8.4, Github 2.9.0, GitHub soft., GitHub software, github source control, software GitHub",
+      "FormattedName" : "GitHub",
+      "Evidence" : "SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Python",
+      "Ontology" : "Information>Software Developers and Programmers>Programming Language>Python",
+      "Alias" : "C Python, Coding Python, CPython, Jython, Jython language, Jython Programming language, Programming Language Python, Programming Python, Python 0.9.0, Python 0.9.1, Python 0.9.2, Python 0.9.4, Python 0.9.6, Python 0.9.8, Python 0.9.9, Python 1.0, Python 1.0.0, Python 1.0.2, Python 1.0.3, Python 1.0.4, Python 1.1, Python 1.1.1, Python 1.2, Python 1.3, Python 1.4, Python 1.5, Python 1.5.2, Python 1.6, python 2.0, Python 2.0.1, python 2.1, Python 2.1.1, Python 2.1.2, Python 2.1.3, python 2.2, Python 2.2.1, Python 2.2.2, Python 2.2.3, Python 2.2p1, python 2.3, Python 2.3.1, Python 2.3.2, Python 2.3.3, Python 2.3.4, Python 2.3.5, python 2.4, Python 2.4.1, Python 2.4.2, Python 2.4.3, Python 2.4.4, python 2.5, Python 2.5.1, Python 2.5.2, Python 2.5.3, Python 2.5.4, python 2.6, Python 2.6.1, Python 2.6.2, Python 2.6.3, Python 2.6.4, Python 2.6.5, Python 2.6.6, Python 2.6.7, Python 2.6.8, Python 2.6.9, python 2.7, Python 2.7.0, Python 2.7.1, Python 2.7.10, Python 2.7.11, Python 2.7.12, Python 2.7.13, Python 2.7.14, Python 2.7.15, Python 2.7.16, Python 2.7.17, Python 2.7.2, Python 2.7.3, Python 2.7.4, Python 2.7.5, Python 2.7.6, Python 2.7.7, Python 2.7.8, Python 2.7.9, python 3.0, Python 3.0.1, python 3.1, Python 3.1.1, Python 3.1.2, Python 3.1.3, Python 3.1.4, Python 3.1.5, python 3.2, Python 3.2.1, Python 3.2.2, Python 3.2.3, Python 3.2.4, Python 3.2.5, Python 3.2.6, python 3.3, Python 3.3.0, Python 3.3.1, Python 3.3.2, Python 3.3.3, Python 3.3.4, Python 3.3.5, Python 3.3.6, Python 3.3.7, python 3.4, Python 3.4.0, Python 3.4.1, Python 3.4.10, Python 3.4.2, Python 3.4.3, Python 3.4.4, Python 3.4.5, Python 3.4.6, Python 3.4.7, Python 3.4.8, Python 3.4.9, python 3.5, Python 3.5.0, Python 3.5.1, Python 3.5.2, Python 3.5.3, Python 3.5.4, Python 3.5.5, Python 3.5.6, Python 3.5.7, Python 3.5.8, python 3.6, Python 3.6.0, Python 3.6.1, Python 3.6.10, Python 3.6.2, Python 3.6.3, Python 3.6.4, Python 3.6.5, Python 3.6.6, Python 3.6.7, Python 3.6.8, Python 3.6.9, Python 3.7.0, Python 3.7.1, Python 3.7.2, Python 3.7.3, Python 3.7.4, Python 3.7.5, Python 3.7.6, Python 3.7.7, Python 3.8, Python 3.8.0, Python 3.8.1, Python 3.8.2, Python 3.9, Python 3.x, Python Application Programming, Python Basic Programming, Python Code Programming, Python Computer Language, Python Development Programming, Python Programming, Python programming lang., Python programming language, Python Programming Language Methods, Python Programming Language Practices, Python Programming Language Skills, Python Programming Language Techniques",
+      "FormattedName" : "Python",
+      "Evidence" : "ProjectSection,SummarySection,SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : ".NET",
+      "Ontology" : "Information>Software Developers and Programmers>Programming Language>.NET",
+      "Alias" : ". NET Framework, .net 1.0, .Net 1.0 Framework, .net 1.1, .Net 1.1 Framework, .net 2.0, .NET 2.0 Framework, .net 2.0 platform, .net 2003, .Net 2003 Framework, .net 3.0, .net 3.0 framework, .net 3.5, .Net 3.5 Frame Work, .Net 3.5 Framework, .net 3.5 platform, .net 4.0, .net 4.0 framework, .Net 4.0 Platform, .net 4.0 programming, .net 4.5, .net 4.5 frame work, .NET 4.5 Framework, .NET 4.7, .NET Application Framework, .Net Application Software, .NET Coding, .net compact framework, .NET Computer Language, .Net Core, .NET Core Platform, .NET Core Software, .NET Core Technology, .NET Core Tool, .NET Development, .net development environment, .NET Development Language, .NET Frame Work, .NET Framework, .Net Framework 1, .NET Framework 1.0, .NET Framework 1.1, .Net Framework 2.0, .Net Framework 3, .Net Framework 3.0, .Net Framework 3.5, .Net Framework 3.5 Framework, .Net Framework 4, .Net Framework 4.0, .Net Framework 4.5, .NET Framework 4.5.1, .NET Framework 4.5.2, .Net Framework 4.6, .NET Framework 4.6.1, .NET Framework 4.6.2, .Net Framework 4.61, .Net Framework 4.7, .NET Framework 4.7.1, .NET Framework 4.7.2, .NET Framework 4.8, .Net Framework 5, .Net Framework Platform, .Net Framework V2.0, .Net Framework V3.0, .NET Framework V3.5, .Net Framework V4.0, .NET Frameworks, .Net Integration, .NET Language, .Net Microsoft Platform, .Net Microsoft Technologies, .Net Open Source, .NET Platforms, .net programming, .Net Programming Framework, .NET programming Language, .NET Soft. Framework, .NET Software Framework, .net technologies, .Net Technology Platform, .Net V2.0, .Net V2.0 Framework, .Net V3.0, .Net V3.5, .NET V3.5 Framework, .Net V4.0, .Net V4.0 Framework, dot net, dot net development, dot net Framework, dot net Language, Dot Net programming, dot net Programming Language, dotnet, Framework .NET, Framework 3.5, microsoft .net, Microsoft .Net 2.0, Microsoft .Net 3.0, Microsoft .Net 3.5, Microsoft .Net 4.0, Microsoft .Net 4.5, Microsoft .Net Compact Framework, microsoft .net framework, Microsoft .Net Framework 2.0, Microsoft .Net Framework 3.0, Microsoft .Net Framework 3.5, Microsoft .Net Framework 4.0, Microsoft .Net Framework 4.5, Microsoft .NET Methods, Microsoft .NET Operations, Microsoft .NET Practices, Microsoft .NET Processes, Microsoft .NET Techniques, microsoft .net technologies, Microsoft .NET Technology, Microsoft Framework, Microsoft Net 3.5, microsoft net framework, Microsoft.Net framework, microsoft.net technology, ms .net, Ms .Net 2.0, Ms .Net 3.0, Ms .Net 3.5, Ms .Net 4.0, ms .net framework, Ms .Net Framework 2, Ms .Net Framework 3, Ms .Net Framework 3.5, Ms .Net Framework 4, Ms .Net Framework 4.5, ms .net technologies, ms.net, MS.NET Framework, net core, NET Framework, NET Framework 3.5, Programming .Net, technologies .net, windows framework, windows frameworks",
+      "FormattedName" : ".NET",
+      "Evidence" : "SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Java",
+      "Ontology" : "Information>Software Developers and Programmers>Programming Language>Java",
+      "Alias" : "Advance Java, Advance Java Programming, core java, Core Java Methods, Core Java Practices, Core Java Programming, Core Java Skills, Core Java Techniques, core-java, corejava, Development of Java, Embedded Java, Java 1, Java 1.2, Java 1.4, Java 1.5, Java 10, Java 11, Java 17, Java 18, Java 2, Java 2 Advanced Programming, Java 2 Programming, java 2.0, Java 3, Java 4, Java 5, java 5.0, Java 6, Java 7, Java 8, Java 8 Programming, Java 9, java application, Java Basic Programming, Java Coding, Java Design and Development, Java Dev Language, Java Development, Java Development Lang., Java Development Language, Java Implementation, Java Platform, Java Platform Language, Java programming, Java Programming Language, Java Programming Language Methods, Java Programming Language Practices, Java Programming Language Skills, Java Programming Language Techniques, Java Solution Development, Java Tech., java technologies, Java Technology, java1, Java1.3, Java1.4, Java5, Java8, Microsoft Java Technologies, Ms Java Technologies, Oracle Java, PersonalJava, Personaljava Software, PersonalJava technology, Pjava, programming core java, programming corejava, Programming Language Java, Sun Java",
+      "FormattedName" : "Java",
+      "Evidence" : "SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Git",
+      "Ontology" : "Information>Software Developers and Programmers>Git",
+      "Alias" : "Git Management, Git Open Source, Git Operations, Git SCM, Git Server, Git soft., Git software, Git Source Code Control, Git Source Code Management, Git Source Control, Git Source Control Management, Git System soft., Git System software, Git Tool Management, GIT Version Control, Git Version Control Management, Git Version Control Methods, Git Version Control Operations, Git Version Control Practices, Git Version Control Processes, Git Version Control Software, Git Version Control Techniques, Git Version Control Tools, Git Version Management, Git Versioning, Git Versioning Control System, Git Versioning Control Systems, Software git",
+      "FormattedName" : "Git",
+      "Evidence" : "SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "C#",
+      "Ontology" : "Information>Software Developers and Programmers>Programming Language>C#",
+      "Alias" : "C # 4.0, C sharp, C Sharp Programming Language, C Sharp Software, C Sharp Syntax, C# - Programing language, C# 1.0, C# 1.2, C# 10.0, C# 2.0, C# 3.0, C# 4.0, C# 5.0, C# 6.0, C# 7.0, C# 7.1, C# 7.2, C# 7.3, C# 8.0, C# Coding, C# Development, C# Development Language, C# Language, C# Programming, C# Programming Language, C# Software Programming, C# version 1.0, C# version 1.2, C# version 2.0, C# version 3.0, C# version 4.0, C# version 5.0, C# version 6.0, C# version 7.0, Csharp, microsoft c#, Microsoft Visual C#, Programming for C#, visual c#",
+      "FormattedName" : "C#",
+      "Evidence" : "ProjectSection,SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Artificial Intelligence",
+      "Ontology" : "Information>Computer and Information Research Scientists>Computer Science>Artificial Intelligence",
+      "Alias" : "AI, ai Methods, ai Operations, ai Practices, ai Processes, ai Techniques, AI technologies, Artificial Intelligence Development, artificial intelligence systems, artificial intelligence technology, Artificial Language Intelligence, Artificial-Intelligence, Game Artificial Intelligence, machine intelligence, machine intelligence technology",
+      "FormattedName" : "Artificial Intelligence",
+      "Evidence" : "SummarySection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Machine Learning",
+      "Ontology" : "Information>Computer and Information Research Scientists>Machine Learning",
+      "Alias" : "algorithm in data mining, analytics machine learning, Data Mining Algorithm, Data Mining-Algorithm, Feature Learning, intelligent retrieval, machine learning algorithms, Machine learning analytics, Machine Learning Methods, Machine Learning Operations, Machine Learning Workflow, Machine Technology, Machine-Learning, ML, ml Methods, ml Operations, ml Practices, ml Processes, ml Techniques, Mlops",
+      "FormattedName" : "Machine Learning",
+      "Evidence" : "SummarySection,SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Scikit-Learn",
+      "Ontology" : "Information>Statisticians>Scikit-Learn",
+      "Alias" : "Scikit Learn, Scikit learn 0.20, scikit learn 0.21.3, scikit learn 1.0, scikit learn 1.0.2, Scikit-learn 0.20, scikit-learn 0.21.3, scikit-learn 0.24.2, scikit-learn 1.0, Scikit-Learn 1.0.0, Scikit-Learn 1.0.1, scikit-learn 1.0.2, Scikit-Learn ML, Scikit-Learn software, Scikit-Learn tool, Scikit-learn Version 1.0, Scikit-Learn Version 1.0.2, scikits.learn, sk learn, sklearn",
+      "FormattedName" : "Scikit-Learn",
+      "Evidence" : "SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "NumPy",
+      "Ontology" : "Information>Software Developers, Applications>NumPy",
+      "Alias" : "Numpy 1.0, NumPy 1.14.0, NumPy 1.15.0, NumPy 1.16.0, Numpy 1.16.6, NumPy 1.17.0, NumPy 1.17.5, NumPy 1.18.0, NumPy 1.18.4, NumPy 1.19, NumPy 1.19.0, NumPy 1.19.5, NumPy 1.20, NumPy 1.20.0, NumPy 1.20.3, NumPy 1.21.0, NumPy 1.21.5, NumPy 1.22, NumPy 1.22.0, NumPy 1.22.1, NumPy 1.22.2, NumPy 1.22.2 , NumPy 1.22.3, NumPy 1.22.5, numpy 1.24.1, NumPy v1.22, NumPy v1.24, \\u200ENumpy 1.18.1",
+      "FormattedName" : "NumPy",
+      "Evidence" : "SkillSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Document Management",
+      "Ontology" : "Administrative and Support and Waste Management and Remediation Services>Document Preparation Services>Document Management",
+      "Alias" : "address paperwork, collate business documents, collect and sort business documents, complete paperwork, coordination of submissions, Document Administration, document maintenance, Document Maintenances, Document Management Operations, Document mgmt, document organisation, document organization, Document Preparation Management, Document Repository Management, document services, Document-Management, Documentation Maintenance, Documentation Management, Documentation mgmt, Documentation Project Management, Documentation Work, Documentation-Maintenance, Documentation-Work, documenting work, documenting-work, engineering document management, engineering document mgmt, engineering document-management, ensure completion of relevant paperwork, enterprise document management, enterprise document mgmt, executed paperwork, Handle Paperwork, Maintain detailed online documentation, Maintain Documentation, maintain documents, maintain documents of work perform, Maintain paper accumulation, Maintain-Documentation, maintaining all level Documents, maintaining documentation, maintains documentation, Maintenance Documentation, Maintenance Documents, maintenance of paperwork, manage documentation, manage documents, Manage Essential Documents, manage paperwork, Manage project documents, manage the document, Managed project documentation, Managed project documents, Management Document, management of documents, managing documents, Manual Management, Organise Business Documents, Organise-Business Documents, Organise-Business-Documents, organising business documents, organize documents, Organizing documents, Organizing large documents, paper document management, Paper Management, Paper Mgmt, paperwork maintenance, Paperwork management, Paperwork Mgmt, Paperwork processing, produce paperwork, produce work-related paperwork, Project Document Management, Project document management process, Project Document mgmt, Project Document-Management, Project Documentation Management, Project Documentation mgmt, Project-Documentation-Mgmt., Records and Document Management, streamlined management of documents, Submission Management, Submissions coordination, take care of paperwork",
+      "FormattedName" : "Document Management",
+      "Evidence" : "ProjectSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Text Classification",
+      "Ontology" : "Administrative and Support and Waste Management and Remediation Services>Document Preparation Services>Document Classification",
+      "Alias" : "categorizing documents, Classification of document, Classification of documents, Classifying Records, document categorization, Document-Classification, records classification, text categorization, Text Classification, text tagging, topic classification",
+      "FormattedName" : "Document Classification",
+      "Evidence" : "ExperienceSection",
+      "LastUsed" : "22/10/2026",
+      "ExperienceInMonths" : 5
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Document Processing",
+      "Ontology" : "Administrative and Support and Waste Management and Remediation Services>Data Entry and Information Processing Workers>Document Management>Document Processing",
+      "Alias" : "Document-Processing, Form Processing, Forms Processing, Forms-Processing",
+      "FormattedName" : "Document Processing",
+      "Evidence" : "SummarySection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Learning Techniques",
+      "Ontology" : "Educational Services>Instructional Coordinators>Instructions Methods",
+      "Alias" : "Ability to train personnel, Classroom practices, Classroom techniques, Coaching strategies, Competency Training, Education Methodologies, Educational methodology, giving lectures, Instruction Methodologies, Instruction Methods, Instructional approaches, Instructional Method, Instructional Methods, Instructional Practices, Instructional Skills, Instructional techniques, Instructional-Skills, Instructions Method, Learning Methodologies, Learning methods, Learning Techniques, Learning-Techniques, Lesson delivery methods, Methods of Instruction, Skills Development Methodologies, Skills training, Teaching Method, Teaching Methodologies, Teaching Methodology, Teaching methods, Teaching techniques, Teaching Techniques Methods, Teaching Techniques Operations, Teaching Techniques Practices, Teaching Techniques Processes, Teaching Techniques Techniques, Training competencies, Training expertise, training methodologies, Training Methodology, Training methods, Training Skills, Training Strategy, Training Techniques, Tutoring techniques, Workforce Development Methodologies",
+      "FormattedName" : "Instructions Methods",
+      "Evidence" : "ProjectSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Coursera",
+      "Ontology" : "Educational Services>Instructional Coordinators>Coursera",
+      "Alias" : "Coursera platform, Coursera Software, Coursera tool",
+      "FormattedName" : "Coursera",
+      "Evidence" : "Others",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    }, {
+      "Type" : "OperationalSkill",
+      "Skill" : "Screenwriting",
+      "Ontology" : "Arts, Entertainment, and Recreation>Actors, Producers, and Directors>Screenwriting",
+      "Alias" : "Compose Dialogues, Dialogue Writing, Entertainment Scripting, Entertainment-Scripting, Film and Televison Writing, Screen - writing, Screen writing, screen-writing, Script Creation, Script Writing, Script-Writing, scriptwriting, Scriptwriting Methods, Scriptwriting Operations, Scriptwriting Practices, Scriptwriting Processes, Scriptwriting Techniques, Television writing, Write Dialogs, Write Dialogue, Write Dialogues, write scripts, Writing A Script, Writing Dialogue, Writing Dialogue Paragraphs, Writing Dialogues, Writing Scripts",
+      "FormattedName" : "Screenwriting",
+      "Evidence" : "ProjectSection",
+      "LastUsed" : "",
+      "ExperienceInMonths" : 0
+    } ],
+    "Experience" : "Student Developer - AI Research Project \r Rizvi College of Engineering, Mumbai \r June 2026 - Present \r  \r Worked on NLP experiments involving text classification, sentiment analysis and natural-language processing.",
+    "SegregatedExperience" : [ {
+      "Employer" : {
+        "EmployerName" : "Rizvi College of Engineering",
+        "FormattedName" : "",
+        "ConfidenceScore" : 10
+      },
+      "JobProfile" : {
+        "Title" : "Student Developer AI Research",
+        "FormattedName" : "",
+        "Alias" : "",
+        "RelatedSkills" : [ ],
+        "ConfidenceScore" : 9
+      },
+      "Location" : {
+        "City" : "Mumbai",
+        "State" : "Maharashtra",
+        "StateIsoCode" : "IN-MH",
+        "Country" : "India",
+        "CountryCode" : {
+          "IsoAlpha2" : "IN",
+          "IsoAlpha3" : "IND",
+          "UNCode" : "356"
+        }
+      },
+      "JobPeriod" : "June 2026 - Present",
+      "FormattedJobPeriod" : "06/2026 to till",
+      "StartDate" : "01/06/2026",
+      "EndDate" : "22/10/2026",
+      "IsCurrentEmployer" : "true",
+      "JobDescription" : "Worked on NLP experiments involving text classification, sentiment analysis and natural-language processing.",
+      "Projects" : [ {
+        "UsedSkills" : "",
+        "ProjectName" : "",
+        "TeamSize" : ""
+      } ]
+    } ],
+    "CurrentEmployer" : "Rizvi College of Engineering",
+    "JobProfile" : "Student Developer AI Research",
+    "WorkedPeriod" : {
+      "TotalExperienceInMonths" : "5",
+      "TotalExperienceInYear" : "0.5",
+      "TotalExperienceRange" : "0-1 YEAR"
+    },
+    "GapPeriod" : "",
+    "AverageStay" : "5",
+    "LongestStay" : "5",
+    "Summary" : "Artificial Intelligence and Data Science undergraduate with experience in Python, Natural Language Processing, machine learning and software development. Interested in NLP applications, information extraction and intelligent document processing.",
+    "ExecutiveSummary" : "HASSAAN has an experience in the domain of 'Administrative and Support and Waste Management and Remediation Services', particularly in the sub-domain of 'Data Entry and Information Processing Workers'. The candidate has been working as a Student Developer AI Research at Rizvi College of Engineering for the last 0.5 years. ",
+    "ManagementSummary" : "HASSAAN doesn't have any management level experience in the resume.",
+    "Coverletter" : "",
+    "Publication" : "",
+    "SegregatedPublication" : [ ],
+    "CurrentLocation" : [ ],
+    "PreferredLocation" : [ ],
+    "Availability" : "",
+    "Hobbies" : "",
+    "Objectives" : "",
+    "Achievements" : "Participated in academic NLP and software-development projects. \r Maintained open-source projects on GitHub.",
+    "SegregatedAchievement" : [ ],
+    "References" : "",
+    "CustomFields" : "Parsing Time : 1455ms",
+    "EmailInfo" : {
+      "EmailTo" : " ",
+      "EmailBody" : " ",
+      "EmailReplyTo" : " ",
+      "EmailSignature" : " ",
+      "EmailFrom" : " ",
+      "EmailSubject" : " ",
+      "EmailCC" : " "
+    },
+    "Recommendations" : [ {
+      "PersonName" : "",
+      "CompanyName" : "",
+      "Relation" : "",
+      "PositionTitle" : "",
+      "Description" : ""
+    } ],
+    "DetailResume" : "HASSAAN SHAIKH\n\nMumbai, Maharashtra, India\nhassaan.shaikh@example.com\n+91 98765 43210\nlinkedin.com/in/hassaan-shaikh github.com/hassaan-shaikh\n\nPROFESSIONAL SUMMARY\n\nArtificial Intelligence and Data Science undergraduate with experience in Python, Natural Language Processing, machine learning and software development. Interested in NLP applications, information extraction and intelligent document processing.\n\nEDUCATION\n\nBachelor of Engineering in Artificial Intelligence and Data Science\nRizvi College of Engineering, Mumbai\n2023 - 2027\nCGPA : 8.4/10\n\nHigher Secondary Certificate ( HSC )\nMaharashtra State Board\n2023\nPercentage : 86.40%\n\nSecondary School Certificate ( SSC )\nMaharashtra State Board\n2021\nPercentage : 91.20%\n\nTECHNICAL SKILLS\n\nPython, Java, C#, SQL, Git, GitHub, NLP, Machine Learning, Natural Language Processing, Pandas, NumPy, scikit-learn, Avalonia UI, .NET\n\nPROJECTS\n\nNLP Sentiment Analysis\n2026\nDeveloped a sentiment classification system using Python and machine-learning techniques. Preprocessed text and classified sentences into positive, negative and neutral categories.\n\nScreenwriting Application\n2026\nDeveloped an open-source screenplay-writing application using C# and Avalonia UI. Implemented a text editor and document management functionality.\n\nEXPERIENCE\n\nStudent Developer - AI Research Project\nRizvi College of Engineering, Mumbai\nJune 2026 - Present\n\nWorked on NLP experiments involving text classification, sentiment analysis and natural-language processing.\n\nCERTIFICATIONS\n\nIntroduction to Machine Learning - Coursera\n2025\n\nLANGUAGES\n\nEnglish - Professional\nHindi - Professional\nMarathi - Native\n\nACHIEVEMENTS\n\nParticipated in academic NLP and software-development projects.\nMaintained open-source projects on GitHub.",
+    "HtmlResume" : "<html><body>HASSAAN SHAIKH<br/><br/>Mumbai, Maharashtra, India<br/>hassaan.shaikh@example.com<br/>+91 98765 43210<br/>linkedin.com/in/hassaan-shaikh github.com/hassaan-shaikh<br/><br/>PROFESSIONAL SUMMARY<br/><br/>Artificial Intelligence and Data Science undergraduate with experience in Python, Natural Language Processing, machine learning and software development. Interested in NLP applications, information extraction and intelligent document processing.<br/><br/>EDUCATION<br/><br/>Bachelor of Engineering in Artificial Intelligence and Data Science<br/>Rizvi College of Engineering, Mumbai<br/>2023 - 2027<br/>CGPA : 8.4/10<br/><br/>Higher Secondary Certificate ( HSC )<br/>Maharashtra State Board<br/>2023<br/>Percentage : 86.40%<br/><br/>Secondary School Certificate ( SSC )<br/>Maharashtra State Board<br/>2021<br/>Percentage : 91.20%<br/><br/>TECHNICAL SKILLS<br/><br/>Python, Java, C#, SQL, Git, GitHub, NLP, Machine Learning, Natural Language Processing, Pandas, NumPy, scikit-learn, Avalonia UI, .NET<br/><br/>PROJECTS<br/><br/>NLP Sentiment Analysis<br/>2026<br/>Developed a sentiment classification system using Python and machine-learning techniques. Preprocessed text and classified sentences into positive, negative and neutral categories.<br/><br/>Screenwriting Application<br/>2026<br/>Developed an open-source screenplay-writing application using C# and Avalonia UI. Implemented a text editor and document management functionality.<br/><br/>EXPERIENCE<br/><br/>Student Developer - AI Research Project<br/>Rizvi College of Engineering, Mumbai<br/>June 2026 - Present<br/><br/>Worked on NLP experiments involving text classification, sentiment analysis and natural-language processing.<br/><br/>CERTIFICATIONS<br/><br/>Introduction to Machine Learning - Coursera<br/>2025<br/><br/>LANGUAGES<br/><br/>English - Professional<br/>Hindi - Professional<br/>Marathi - Native<br/><br/>ACHIEVEMENTS<br/><br/>Participated in academic NLP and software-development projects.<br/>Maintained open-source projects on GitHub.</body></html>",
+    "CandidateImage" : {
+      "CandidateImageData" : "",
+      "CandidateImageFormat" : ""
+    },
+    "TemplateOutput" : {
+      "TemplateOutputData" : "",
+      "TemplateOutputFileName" : ""
+    },
+    "ApiInfo" : {
+      "Metered" : "No",
+      "CreditLeft" : "100.0",
+      "AccountExpiryDate" : "06/11/2026 19:07:55",
+      "BuildVersion" : "8.0.0.2026.10.22"
+    }
+  }
+}
