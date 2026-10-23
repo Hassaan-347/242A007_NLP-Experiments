@@ -1,0 +1,53 @@
+﻿RIZVI COLLEGE OF ENGINEERING
+Department of Artificial Intelligence & Data Science Engineering
+NATURAL LANGUAGE PROCESSING
+ASSIGNMENT No. 02
+Name: Hassaan Shaikh
+Roll No.: 242A007
+Class: B.E. (AI&DS), Semester VII
+Course Code: CSDO7011
+
+Q1. Given the sentence:
+“The bank will not open until the river recedes.”
+a) Identify and explain the type of lexical ambiguity present.
+Ans: The ambiguous word is “bank.” It has at least two common senses:
+    1. Financial institution — a place where people deposit, withdraw, or manage money.
+    2. River bank — the land alongside a river.
+In this sentence, “bank” is intended to mean a financial institution, because “will not open” refers to an institution's operating hours. This is an example of polysemy/lexical ambiguity, where a single word has multiple possible meanings and the intended sense must be determined from context.
+b) Suggest how WordNet or BabelNet could help resolve this ambiguity.
+Ans: WordNet can list the different senses of bank as separate synsets. The system can examine the surrounding words, such as open, river, and recedes, and compare them with the definitions and semantic relations of the candidate senses.
+BabelNet can perform a similar task while providing multilingual and cross-lingual semantic information. By examining the context and the semantic relationships between the words, it can help select the sense of bank that best fits the sentence.
+In this particular sentence, the context is somewhat contradictory: “river” and “recedes” strongly suggest the river-bank sense, while “will not open” suggests the financial-institution sense. A knowledge-based system would therefore need to evaluate which interpretation produces the more coherent overall meaning.
+c) Explain why automatic systems might still fail in some contexts.
+Automatic systems can fail because context can be ambiguous, incomplete, or contradictory. Words may have closely related senses, and systems may not have enough world knowledge or pragmatic understanding to determine the speaker's intended meaning. In this sentence, the presence of both bank and river creates competing contextual clues, making simple word-matching insufficient.
+
+Q2. A company is building an NLP system to classify word senses using Naïve Bayes.
+a) Briefly explain how Naïve Bayes can be applied to Word Sense Disambiguation (WSD).
+Ans: Naïve Bayes can treat Word Sense Disambiguation (WSD) as a classification problem. For an ambiguous word, the possible senses are treated as classes. A model is trained on labelled examples where the correct sense of the word is known.
+For a new occurrence, contextual features such as the surrounding words are extracted. Naïve Bayes calculates the probability of each possible sense given these features and selects the sense with the highest probability:
+
+
+or example, for the word “bank”, occurrences in contexts containing words such as money, loan, or account would favour the financial institution sense, while contexts containing river, water, or shore would favour the river bank sense.
+b) What are its key limitations compared to Lesk’s knowledge-based approach?
+Ans: The main limitation of Naïve Bayes is that it requires labelled training data for each word sense. Creating and annotating such datasets is expensive and difficult, particularly for words with many senses.
+It also assumes that the contextual features are independent of one another, which is often unrealistic for natural language. Furthermore, Naïve Bayes may perform poorly when it encounters contexts that differ significantly from its training data.
+In contrast, Lesk is knowledge-based and does not require a large labelled training corpus. It compares the definitions or glosses of candidate senses with the words in the surrounding context. However, Lesk also depends heavily on the quality and coverage of dictionary definitions.
+c) Propose one improvement using a semi-supervised method such as Yarowsky’s algorithm.
+Ans: A semi-supervised approach such as Yarowsky's algorithm can reduce the dependence on manually labelled data. The system can begin with a small number of labelled examples and identify strong contextual clues associated with each sense.
+It then uses these high-confidence examples to automatically label additional unlabelled data, retrains the classifier with the expanded dataset, and repeats the process. This bootstrapping procedure gradually increases the amount of training data while requiring relatively little manual annotation.
+Thus, combining Naïve Bayes with Yarowsky-style bootstrapping can provide more training data and improve WSD performance while reducing the cost of manually creating a large labelled corpus.
+
+Q3. Consider the sentence:
+“John met Alex after he finished the project.”
+a) Identify the anaphora and discuss why reference resolution is difficult here.
+Ans: In the sentence, the word “he” is the anaphoric expression (anaphor). Its possible antecedents are John and Alex.
+Reference resolution is difficult because both candidates are grammatically possible antecedents and both are male. The sentence does not provide enough information to determine with certainty who finished the project. Resolving the reference therefore requires considering additional contextual or semantic information beyond simple grammatical agreement.
+b) How would Hobbs’ algorithm attempt to resolve “he”?
+Ans: Hobbs' algorithm uses the syntactic parse tree of a sentence to search for a suitable antecedent.
+It would begin from the noun phrase containing “he” and move upward through the parse tree. It then searches previously encountered noun phrases, such as “Alex” and “John,” and checks whether they satisfy the required syntactic constraints for being the antecedent.
+The algorithm would rank/select a candidate based on the order in which the noun phrases are encountered during its tree traversal. However, because both John and Alex can satisfy the relevant syntactic conditions, Hobbs' algorithm alone may not reliably determine the intended antecedent.
+c) Discuss one real-world scenario where syntactic constraints alone fail to ensure coherence.
+Ans: Consider:
+“The trophy doesn't fit in the suitcase because it is too large.”
+Syntactic information alone cannot reliably determine whether “it” refers to the trophy or the suitcase. Understanding the intended meaning requires world knowledge and semantic reasoning: a trophy is more naturally described as being too large to fit inside a suitcase.
+Similarly, in real-world conversations, pronouns may refer to entities based on common knowledge, discourse context, or the speaker's intentions rather than purely syntactic relationships. Therefore, syntactic constraints such as those used by Hobbs' algorithm are useful but are not sufficient for complete reference resolution.
